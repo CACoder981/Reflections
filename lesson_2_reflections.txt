@@ -7,7 +7,10 @@ Why to you need to do it?
 So my git repository is ready for commits.
 
 How is the staging area different from the working directory and the repository?
+The staging area is a place where you add files before they are committed. This allows single or multiple files to be committed to the git respository. The working directory is where files are MACD'ed in day to day working.
+
 What value do you think it offers?
+It gives flexibility to add just one file or multiple files together into a commit. This lets the user logically group the files together or keep them separate prior to a commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
