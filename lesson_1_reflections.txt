@@ -1,0 +1,29 @@
+It helped me work out where the new code was different to the old code.
+In doing this I didnt' have to wade through the code listing.
+It helped me focus on where the bug was introduced.
+
+Having access to the entire history of the file would mean that I could
+search more efficiently. 
+I could also go back to previous versions.
+It would enable me to go back as required if I needed to.
+
+The pros of a manual commit is that you have control and can group logical changes into separate commits. 
+The con is that you may not commit at the appropriate time.
+The pro is that you don't have to worry about making a commit as
+it will automatically happen.
+The con of an automated system is that you have no control.
+
+Git is a code repository that has the underlying design principle of 
+connections between files.
+This is a design consideration.
+Google Docs (and other) have the underlying design principle that the
+documents are not interconnected in the same was a code is.
+
+Use 'git log' to view all the commits.
+Use 'git diff ' and then the commit id.
+Down arrow to move down.
+'q' to exit back to the command line.
+
+It means I can always get back to where I started.
+
+Android coding! That's where I want to use Git.
