@@ -13,6 +13,7 @@ What value do you think it offers?
 It gives flexibility to add just one file or multiple files together into a commit. This lets the user logically group the files together or keep them separate prior to a commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
+By making sure that the file you add to the staging area is logically one change. You can still leave other changed files in the working directory ready to be moved to the staging area in the future.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
