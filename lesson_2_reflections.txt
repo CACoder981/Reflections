@@ -25,4 +25,4 @@ What is the result of merging two branches together? Why do we represent it in t
 The code in each of the files is moved into one new file that becomes the master. The diagram reflects what is happening in a visual way.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
-Pro of manual is that you have control of what gets merged. Con is that you have to do it manually. Pro of automatic merging is that it happens. The con is that you may erase valid code changes.
+Pro of manual is that you have control of what gets merged. Con is that you have to do it manually. Pro of automatic merging is that it happens. The con is that you may erase valid code changes. I'd say I need more experience with Git to really work out the pros and cons.
