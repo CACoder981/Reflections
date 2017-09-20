@@ -16,9 +16,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 By making sure that the file you add to the staging area is logically one change. You can still leave other changed files in the working directory ready to be moved to the staging area in the future.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+These would help so much. Take my Android programming challenges, I could use a branch to complete a challenge while leaving the book's code intact.
 
 How do the diagrams help you visualize the branch structure?
+I can see how the idea of commits and a branch work together.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The code in each of the files is moved into one new file that becomes the master. The diagram reflects what is happening in a visual way.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pro of manual is that you have control of what gets merged. Con is that you have to do it manually. Pro of automatic merging is that it happens. The con is that you may erase valid code changes.
