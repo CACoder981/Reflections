@@ -4,13 +4,14 @@ When you're working in a team, using different computers for coding or looking f
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+More control.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+A branch is what is used to start a new development path separate from the master.
+A clone is a copy of the master where developers make changes to code.
+A fork is GitHub's way of cloning a repository on their website.
+    
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
